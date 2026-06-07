@@ -79,13 +79,15 @@ ANALISIS/
 | #146504 | Carmen Sosa | Guante x2 $107.98 | Ambato | ✅ Entregado |
 | (pendiente) | Jimmy Vera Peñafiel | Guante der. $49.99 | Guayaquil/Vergeles | ⏳ Orden enviada, esperando guía |
 
-### Leads activos — prioridad alta
+### Leads activos hoy 7/Jun — prioridad alta
 | Cliente | Número | Producto | Estado | Acción pendiente |
 |---|---|---|---|---|
-| kushita2016 | +593 99 920 0994 | Guante (mamá, Pelileo) | 🔥🔥 80% prob cierre | Esperar respuesta msg 6/6 mañana |
-| +593 99 412 3065 | — | Guante (Santo Domingo) | 🔥 Pregunta de pagos ignorada | Responder: "es un solo pago al retirar 😊" |
-| Mangu | +593 99 557 7529 | Guante par | 🟠 Precio mal dado + a la orden | Promo con precio correcto $107.98 |
-| +593 96 100 7773 | — | Guante (El Oro) | 🟡 Intermediario consultando | Esperar / promo si no responde |
+| kushita2016 | +593 99 920 0994 | Guante (mamá, Pelileo) | 🔥🔥 Msg enviado hoy | Esperando respuesta |
+| +593 98 656 8029 | — | Guante (Guayaquil) | 🔥 Esperando sector | Cuando responda → confirmar agencia → pedir datos |
+| +593 98 954 8974 | — | Guante | 🟠 Sin respuesta tras msg duplicado | Enviar: "¿es para usted o para un familiar? 😊" |
+| +593 99 412 3065 | — | Guante (Santo Domingo) | 🔥 Pregunta de pagos respondida hoy | Esperando respuesta |
+| Mangu | +593 99 557 7529 | Guante par | 🟠 Promo enviada hoy | Esperando respuesta |
+| +593 96 100 7773 | — | Guante (El Oro) | 🟡 Promo enviada hoy | Esperando respuesta |
 | Mendez | +593 98 887 6692 | Ollas $39.99 | 🔥 Esperando ciudad | Esperar respuesta |
 
 ### Leads fríos — promo domingo (ya escritos 5/6, escribir hoy 7/6)
@@ -162,6 +164,15 @@ Rosa Carranza, Rose, Gregorio Barzallo — dijeron NO explícito
 - Guiones: `promarket-ordenes/CEREBRO/03_guiones.md`
 - Todos los leads: `promarket-ordenes/CLIENTES/` (31 archivos)
 - Análisis rentabilidad: `promarket-ordenes/VENTAS/analisis_rentabilidad.md`
+
+---
+
+## 7b. REGLA DE REGISTRO — OBLIGATORIA
+
+- Después de **cada mensaje nuevo** de un cliente → actualizar CHATS/ + commit + push inmediato
+- Después de **cada aprendizaje nuevo** → actualizar aprendizajes.md + ARRANCA.md + commit + push
+- Después de **cada sesión** → actualizar SESIONES/YYYY-MM-DD.md + commit + push
+- **No acumular nunca** — registrar en tiempo real, cada enter del usuario
 
 ---
 
