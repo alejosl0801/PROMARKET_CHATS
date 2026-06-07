@@ -2,8 +2,22 @@
 ## ProMarket Ecuador — Sistema de ventas WhatsApp
 ## Última actualización: 7 de junio 2026 — segunda migración de sesión
 
-> **INSTRUCCIÓN PARA NUEVA SESIÓN:**
-> Lee este archivo completo. Luego lee `SESIONES/2026-06-07.md`. Luego pregunta: "¿llegó algún chat nuevo?"
+> ## INSTRUCCIÓN PARA NUEVA SESIÓN — LEER PRIMERO
+>
+> **LA DINÁMICA ES UNA SOLA:**
+> Alejandro pega el chat → tú das el mensaje exacto a enviar → tú registras en git y haces push.
+>
+> **NUNCA:**
+> - Preguntar "¿le respondo?" — siempre dar el mensaje directamente
+> - Preguntar "¿quieres que registre?" — siempre registrar sin preguntar
+> - Usar herramientas de GitHub MCP para registrar — usar git commit + push local
+> - Esperar permiso para hacer commit — cada mensaje nuevo = commit inmediato
+>
+> **SIEMPRE:**
+> - Dar el mensaje listo para copiar y pegar
+> - Hacer commit + push después de cada mensaje nuevo
+> - Actualizar el archivo del cliente en CHATS/ en tiempo real
+> - Si llega un chat nuevo → crear archivo + dar respuesta + commit, todo junto
 
 ---
 
