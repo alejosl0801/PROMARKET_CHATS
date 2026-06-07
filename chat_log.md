@@ -23,6 +23,9 @@
 | 19 | 2026-06-07 | Todos los clientes GUANTE + OLLAS pendientes de promo 7/6 |
 | 20 | 2026-06-07 10:45 | Promarket → +593 96 133 9428: pidiendo ciudad |
 | 21 | 2026-06-07 10:47 | +593 96 133 9428: Quito Conocoto — Servientrega Av Lola Quintana |
+| 22 | 2026-06-07 10:54 | Promarket → +593 96 133 9428: pidiendo datos |
+| 23 | 2026-06-07 10:56 | +593 96 133 9428: César Augusto López Mogollón / CI 1710555358 / 0968339428 / Conocoto calle Oriente y Mariscal Sucre |
+| 24 | 2026-06-07 10:57 | +593 96 133 9428: quiere retirar el viernes, entre semana no puede por trabajo |
 
 ---
 
@@ -31,7 +34,7 @@
 ### GUANTE
 | Cliente | Número | Estado |
 |---------|--------|--------|
-| +593 96 133 9428 | — | 🔥 Ciudad: Quito Conocoto — agencia: Av Lola Quintana → pedir datos |
+| César López (+593 96 133 9428) | — | ✅ DATOS COMPLETOS — generar orden. Retira viernes |
 | Norma Chavarría | +593 98 480 0900 | ⏳ Por enviar promo |
 | Mangu | +593 99 557 7529 | ⏳ Por enviar promo |
 | Bettys | +593 98 501 1737 | ⏳ Por enviar promo |
