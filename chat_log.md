@@ -11,3 +11,4 @@
 | 7 | 2026-06-07 | ????? ERES BOBO O QUE?? |
 | 8 | 2026-06-07 | TU ERES EL QUE RESPONDE? |
 | 9 | 2026-06-07 | La dinámica es simple: Tú pegas el chat → yo te doy el mensaje exacto a enviar → yo registro todo. Yo nunca le respondo al cliente. Tú lo haces con el mensaje que yo te doy. |
+| 10 | 2026-06-07 | QUE PENDIENTES TENEMOS? |
