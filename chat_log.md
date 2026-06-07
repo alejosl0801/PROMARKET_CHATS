@@ -1,0 +1,9 @@
+# Chat Log — Promarket
+
+| # | Fecha/Hora | Mensaje |
+|---|------------|---------|
+| 1 | 2026-06-07 10:30 | arranca |
+| 2 | 2026-06-07 | Estado actual: Fertisa +593 98 656 8029, Guante +593 96 133 9428, kushita2016, +593 98 954 8974 |
+| 3 | 2026-06-07 | [Conversación WhatsApp Fertisa — mensaje de confirmación de agencia enviado] |
+| 4 | 2026-06-07 | CUAL ES TU ORDEN PRINCIPAL |
+| 5 | 2026-06-07 | TIENES QUE REGISTRAR CADA NUEVA LETRA/ PALABRA QUE SE HABLE EN ESTE CHAT A PARTIR DE AHORITA, CADA QUE YO APLASTE ENTER |
