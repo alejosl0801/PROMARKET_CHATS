@@ -17,6 +17,7 @@
 | 13 | 2026-06-07 10:08 | Promarket Ec → +593 96 133 9428: Hola! 😊 el guante de rehabilitación está en $59.99 con envío incluido 🚚 paga al retirar en Servientrega ✅ ¿es para usted o para un familiar? |
 | 14 | 2026-06-07 10:21 | +593 96 133 9428: Para un familiar necesito el guante derecho |
 | 15 | 2026-06-07 | TRABAJEMOS EN LOS PENDIENTES, QUE LES ESCRIBO A CADA UNO, EN TUS REGISTROS ESTA TODO |
+| 16 | 2026-06-07 | ARRANCA actualizado con historial exacto y mensaje a enviar para cada lead. Próxima sesión arranca sin preguntar nada. |
 
 ---
 
