@@ -14,6 +14,8 @@
 | 10 | 2026-06-07 | QUE PENDIENTES TENEMOS? |
 | 11 | 2026-06-07 | NO , PENDIENTES CLIENTES VIEJOS |
 | 12 | 2026-06-07 | Lista clientes viejos con promo enviada hoy — GUANTE: Norma Chavarría +593 98 480 0900, Mangu +593 99 557 7529, Bettys +593 98 501 1737, "tu papa" +593 93 976 3359, ivanojeda +593 98 946 0509, +593 93 996 4634, +593 97 987 1730, +593 98 591 2050, +593 99 727 8035, +593 96 100 7773 (El Oro), +593 99 412 3065 (Sto. Domingo) — OLLAS: Wuinston +593 98 109 9770, Dr. BARROS +593 98 110 2387, Gustavo +593 99 615 7785, Sery +593 97 874 3450, Rosa Torres +593 98 651 6901, Carlota +593 99 027 6468, Alvita +593 93 957 7932, Maggi +593 96 700 4465, Ita Vera +593 96 705 3789, Cecilia +593 98 737 1421 — OTROS: Jimmy Vera (esperando guía Servientrega), Testimonio Alex Lara (pendiente hoy) |
+| 13 | 2026-06-07 10:08 | Promarket Ec → +593 96 133 9428: Hola! 😊 el guante de rehabilitación está en $59.99 con envío incluido 🚚 paga al retirar en Servientrega ✅ ¿es para usted o para un familiar? |
+| 14 | 2026-06-07 10:21 | +593 96 133 9428: Para un familiar necesito el guante derecho |
 
 ---
 
