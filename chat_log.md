@@ -27,6 +27,9 @@
 | 23 | 2026-06-07 10:56 | +593 96 133 9428: César Augusto López Mogollón / CI 1710555358 / 0968339428 / Conocoto calle Oriente y Mariscal Sucre |
 | 24 | 2026-06-07 10:57 | +593 96 133 9428: quiere retirar viernes |
 | 25 | 2026-06-07 11:04 | +593 98 153 3067: Chone — guante para mamá |
+| 26 | 2026-06-07 11:05 | +593 96 133 9428: Ok gracias — orden generada |
+| 27 | 2026-06-07 11:08 | Promarket → +593 98 153 3067: pidiendo dirección y agencia |
+| 28 | 2026-06-07 11:11 | +593 98 153 3067: ¿viene cargador? ¿funciona bien? ¿hace los movimientos del video? |
 
 ---
 
@@ -35,8 +38,8 @@
 ### GUANTE
 | Cliente | Número | Estado |
 |---------|--------|--------|
-| César López (+593 96 133 9428) | — | ✅ DATOS COMPLETOS — generar orden. Retira viernes |
-| +593 98 153 3067 | — | 🔥 Ciudad: Chone — guante para mamá → confirmar agencia + pedir datos |
+| César López (+593 96 133 9428) | — | ✅ ORDEN GENERADA — retira viernes |
+| +593 98 153 3067 | Chone | 🔥 Resolviendo dudas → pedir datos |
 | Norma Chavarría | +593 98 480 0900 | ⏳ Por enviar promo |
 | Mangu | +593 99 557 7529 | ⏳ Por enviar promo |
 | Bettys | +593 98 501 1737 | ⏳ Por enviar promo |
