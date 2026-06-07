@@ -1,8 +1,9 @@
 # ARRANCA — BRIEFING COMPLETO PARA NUEVA SESIÓN
 ## ProMarket Ecuador — Sistema de ventas WhatsApp
+## Última actualización: 7 de junio 2026 — segunda migración de sesión
 
-> **INSTRUCCIÓN PARA NUEVA SESIÓN:**  
-> Lee este archivo completo antes de hacer cualquier cosa. Luego lee `SESIONES/` para ver el último día trabajado. Luego pregunta: "¿llegó algún chat nuevo?"
+> **INSTRUCCIÓN PARA NUEVA SESIÓN:**
+> Lee este archivo completo. Luego lee `SESIONES/2026-06-07.md`. Luego pregunta: "¿llegó algún chat nuevo?"
 
 ---
 
@@ -14,8 +15,8 @@
 - **ProMarket tiene sede en Loja** ← nunca decir "somos de Guayaquil"
 - **Rocket.ec** tiene la bodega física — ProMarket solo vende
 - **Productos activos:**
-  - Guante Robótico de Rehabilitación ($59.99 precio normal / $49.99 liquidación)
-  - Ollas de Acero Inoxidable ($49.99 precio normal / $39.99 liquidación) — campaña pausada
+  - Guante Robótico de Rehabilitación — $59.99 precio normal
+  - Ollas de Acero Inoxidable — $49.99 precio normal (campaña pausada, solo cerrar leads existentes)
 - **Canal:** WhatsApp Business + Facebook Ads
 
 ---
@@ -29,11 +30,18 @@
 | Guante par $107.98 | $107.98 | $61.34 | $46.64 | $8.49 | **$38.15** |
 | Ollas $49.99 | $49.99 | $27.59 | $22.40 | $18.99 | **$3.41** |
 
-> Liquidación destruye el margen. Usar SOLO para leads fríos +7 días sin respuesta. NUNCA para leads nuevos.
+---
+
+## 3. ESTRATEGIA DE PRECIO POR ETAPA
+
+- **Lead nuevo / conversación activa:** $59.99 siempre
+- **Lead que no respondió 24h+:** re-enganchar con $49.99 ("bajó el precio")
+- **Lead frío +7 días:** $49.99 + urgencia real ("solo por hoy", "últimas unidades")
+- ❌ NUNCA dar $49.99 de entrada a lead nuevo — destruye el margen
 
 ---
 
-## 3. ESTRUCTURA DE REPOS EN GITHUB
+## 4. ESTRUCTURA DE REPOS EN GITHUB
 
 ### `alejosl0801/promarket-ordenes` — El cerebro del negocio
 ```
@@ -56,19 +64,15 @@ CLIENTES/            → un archivo por lead (31 archivos)
 ```
 ARRANCA.md           → este archivo (leer primero)
 CHATS/               → un archivo por cliente WhatsApp
-  YYYY-MM-DD_número.md
 SESIONES/            → resumen operativo por día
-  YYYY-MM-DD.md
-ANALISIS/
-  patrones.md        → patrones y errores actualizados
+ANALISIS/patrones.md → patrones y errores
 ```
 
-> **Rama activa en AMBOS repos:** `claude/magical-franklin-iCbBk`  
-> Siempre hacer push a esa rama. Nunca push a main sin autorización explícita.
+> **Rama activa en AMBOS repos:** `claude/magical-franklin-iCbBk`
 
 ---
 
-## 4. ESTADO ACTUAL (actualizado 7 Jun 2026)
+## 5. ESTADO ACTUAL — 7 JUN 2026
 
 ### Ventas cerradas (total)
 | Orden | Cliente | Producto | Ciudad | Estado |
@@ -79,122 +83,115 @@ ANALISIS/
 | #146504 | Carmen Sosa | Guante x2 $107.98 | Ambato | ✅ Entregado |
 | (pendiente) | Jimmy Vera Peñafiel | Guante der. $49.99 | Guayaquil/Vergeles | ⏳ Orden enviada, esperando guía |
 
-### Leads activos hoy 7/Jun — prioridad alta
-| Cliente | Número | Producto | Estado | Acción pendiente |
-|---|---|---|---|---|
-| kushita2016 | +593 99 920 0994 | Guante (mamá, Pelileo) | 🔥🔥 Msg enviado hoy | Esperando respuesta |
-| +593 98 656 8029 | — | Guante (Guayaquil) | 🔥 Esperando sector | Cuando responda → confirmar agencia → pedir datos |
-| +593 98 954 8974 | — | Guante | 🟠 Sin respuesta tras msg duplicado | Enviar: "¿es para usted o para un familiar? 😊" |
-| +593 99 412 3065 | — | Guante (Santo Domingo) | 🔥 Pregunta de pagos respondida hoy | Esperando respuesta |
-| Mangu | +593 99 557 7529 | Guante par | 🟠 Promo enviada hoy | Esperando respuesta |
-| +593 96 100 7773 | — | Guante (El Oro) | 🟡 Promo enviada hoy | Esperando respuesta |
-| Mendez | +593 98 887 6692 | Ollas $39.99 | 🔥 Esperando ciudad | Esperar respuesta |
+### Chats activos ahora mismo — PRIORIDAD MÁXIMA
+| Número | Archivo | Estado | Próximo paso |
+|---|---|---|---|
+| +593 98 656 8029 | CHATS/2026-06-07_593986568029.md | 🔥🔥 Fertisa, Guayaquil — dio sector, preguntó precio | Confirmar agencia Servientrega cerca de Fertisa → pedir datos |
+| +593 96 133 9428 | CHATS/2026-06-07_593961339428.md | 🔥 Guante derecho para familiar | Esperar ciudad → confirmar agencia → pedir datos |
+| kushita2016 +593 99 920 0994 | CLIENTES/+593_99_920_0994_kushita2016.md | 🔥🔥 Mensaje enviado hoy | Esperar respuesta — si no responde mañana 8am: "buenos días! 😊 ¿cómo amaneció su mamá?" |
+| +593 99 412 3065 | CLIENTES/+593_99_412_3065.md | 🔥 Pregunta de pagos respondida | Esperar respuesta |
+| +593 98 954 8974 | CHATS/2026-06-07_593989548974.md | 🟠 Sin respuesta tras msg duplicado | Enviar: "¿Es para usted o para un familiar? 😊" |
 
-### Leads fríos — promo domingo (ya escritos 5/6, escribir hoy 7/6)
-Guante: Norma (+593 98 480 0900), Mangu (+593 99 557 7529), Bettys (+593 98 501 1737), tu papa (+593 93 976 3359), ivanojeda (+593 98 946 0509)  
-Ollas: Wuinston, Dr. Barros, Gustavo, Sery, Rosa Torres, Carlota, Alvita, Maggi, Ita Vera, Cecilia
+### Leads fríos — promo domingo YA ENVIADA a todos
+- Guante: Norma, Mangu, Bettys, tu papa, ivanojeda + leads 6/6 sin respuesta
+- Ollas: Wuinston, Dr. Barros, Gustavo, Sery, Rosa Torres, Carlota, Alvita, Maggi, Ita Vera, Cecilia
+- Mensaje guante frío: "Hola! 😊 el guante que vimos bajó de $59.99 a $49.99 solo por hoy domingo — envío incluido ¿se anima?"
+- Mensaje ollas frío: "Hola! 😊 las ollas que vimos bajaron de $49.99 a $39.99 solo por hoy domingo — envío incluido ¿se anima?"
 
-### Leads cerrados sin venta (NO contactar)
-Rosa Carranza, Rose, Gregorio Barzallo — dijeron NO explícito
+### Leads cerrados hoy 7/Jun — no contactar
+| Número | Razón |
+|---|---|
+| +593 96 998 3880 | Creyó que podía comprar en Servientrega directamente |
+| +593 99 397 1425 | Necesita dispositivo para pie, no mano |
 
 ---
 
-## 5. REGLAS CRÍTICAS (las más importantes)
+## 6. REGLAS CRÍTICAS
 
 ### Respuesta
-1. **Responder en menos de 5 minutos** — factor #1 de conversión. Más de 30 min = venta perdida.
-2. **Primer mensaje = precio en la primera línea** — máximo 2 líneas. Sin explicar Servientrega.
-3. **NUNCA ignorar pregunta directa** del cliente. Si preguntó algo, responderlo ANTES de avanzar.
-4. **Responder siempre los audios** — "¡escuché! 😊 [respuesta al contenido]"
+1. **Responder en menos de 5 minutos**
+2. **Primer mensaje = precio en la primera línea** — máximo 2 líneas
+3. **NUNCA ignorar pregunta directa** del cliente
+4. **Responder siempre los audios** — "¡Escuché! 😊 [respuesta al contenido]"
+5. **Todos los mensajes empiezan con MAYÚSCULA**
+6. **No repetir información ya enviada** — revisar el historial antes de responder
 
-### Emojis por contexto emocional
+### Emojis
 - Flujo normal → 😊 🙌
 - Cliente comparte sufrimiento/enfermedad → 🙏
-- Cierre emotivo cálido (solo Camila) → 💛
-- ❌ NUNCA 😊 o 💛 después de "qué difícil" o frase de empatía
+- ❌ NUNCA 😊 o 💛 después de frase de empatía
 
-### Scripts de confianza
-- **"¿de dónde son?"** → *"tenemos bodega en Loja y llegamos a todo Ecuador 🇪🇴 — paga al retirar en Servientrega, no adelanta nada ✅"*
-- **"¿en cuántos pagos?"** → *"es un solo pago al retirar en Servientrega 😊 — paga cuando tiene el producto en sus manos ✅"*
-- **"¿Puedo revisar antes de pagar?"** → *"paga justo al momento de retirarlo en Servientrega 😊 — si algo no está bien, no lo retira"*
+### Scripts clave
+- **"¿de dónde son?"** → *"Tenemos bodega en Loja y llegamos a todo Ecuador 🇪🇴 — paga al retirar en Servientrega, no adelanta nada ✅"*
+- **"¿en cuántos pagos?"** → *"Es un solo pago al retirar en Servientrega 😊 — paga cuando tiene el producto en sus manos ✅"*
+- **"¿para quién es?"** → preguntar ANTES de ciudad — involucra emocionalmente
 
-### Descuentos
-- **NUNCA mencionar % de descuento** — genera desconfianza
-- Solo precio final: "$59.99 con envío incluido"
-- Liquidación ($49.99) SOLO para leads fríos +7 días sin respuesta
+### Flujo correcto
+```
+1. Saludo + precio directo ($59.99)
+2. "¿Es para usted o para un familiar?"
+3. Respuesta empática si comparten situación (🙏)
+4. Ciudad → sector → agencia Servientrega
+5. Pedir datos: nombre / celular / dirección
+6. Generar orden Rocket.ec
+7. Confirmar orden + PDF
+8. Guía cuando Servientrega autoriza
+```
 
 ### Cierre
-- "Ok gracias" / "Ya le aviso" = NO educado. Responder: *"claro! solo le cuento que el envío incluido es solo hasta [fecha real] 😊 ¿le reservo una unidad mientras decide?"*
-- "a la orden" sin técnica de cierre = venta perdida
+- "Ok gracias" / "Ya le aviso" = NO educado → responder con reserva + urgencia real
+- "A la orden" sin cierre = venta perdida
+- "¿le proceso?" solo cuando el cliente ya autorizó explícitamente
 
 ---
 
-## 6. FLUJO CORRECTO DE VENTA
+## 7. REGLA DE REGISTRO — OBLIGATORIA
 
-```
-1. Saludo + precio directo en 1 línea
-2. "¿es para usted o para un familiar?" ← ANTES de preguntar ciudad
-3. Respuesta empática si comparten situación difícil (🙏)
-4. Confirmar ciudad → mostrar agencia Servientrega
-5. Pedir datos: nombre / celular / dirección referencia
-6. Generar orden con Rocket.ec
-7. Confirmar orden + enviar PDF al cliente
-8. Enviar guía cuando Servientrega autoriza
-```
+- **Cada mensaje nuevo del cliente** → actualizar CHATS/ + commit + push INMEDIATO
+- **Cada aprendizaje nuevo** → aprendizajes.md + ARRANCA.md + commit + push
+- **Cada sesión** → SESIONES/YYYY-MM-DD.md + commit + push
+- **No acumular** — en tiempo real, cada enter
 
 ---
 
-## 7. CÓMO FUNCIONA ESTE SISTEMA DE SESIONES
+## 8. PENDIENTES URGENTES (en orden exacto)
 
-### Cuándo guardar
-- Después de cada chat nuevo → crear/actualizar `CHATS/YYYY-MM-DD_número.md`
-- Al final de cada día → actualizar/crear `SESIONES/YYYY-MM-DD.md`
-- Al aprender algo nuevo → guardar en `promarket-ordenes/VENTAS/aprendizajes.md`
-- Al corregir error → actualizar el archivo correspondiente en `CEREBRO/`
-- Siempre: commit + push a `claude/magical-franklin-iCbBk` en AMBOS repos
-
-### Cómo migrar de sesión
-1. Al final de la sesión → actualizar este `ARRANCA.md` con estado actual
-2. Commit + push de todo
-3. Nueva sesión: leer `ARRANCA.md` → leer última `SESIONES/` → preguntar si hay chats nuevos
-
-### Archivos de referencia rápida
-- Reglas completas: `promarket-ordenes/CEREBRO/07_reglas.md`
-- Objeciones: `promarket-ordenes/CEREBRO/05_objeciones.md`
-- Guiones: `promarket-ordenes/CEREBRO/03_guiones.md`
-- Todos los leads: `promarket-ordenes/CLIENTES/` (31 archivos)
-- Análisis rentabilidad: `promarket-ordenes/VENTAS/analisis_rentabilidad.md`
-
----
-
-## 7b. REGLA DE REGISTRO — OBLIGATORIA
-
-- Después de **cada mensaje nuevo** de un cliente → actualizar CHATS/ + commit + push inmediato
-- Después de **cada aprendizaje nuevo** → actualizar aprendizajes.md + ARRANCA.md + commit + push
-- Después de **cada sesión** → actualizar SESIONES/YYYY-MM-DD.md + commit + push
-- **No acumular nunca** — registrar en tiempo real, cada enter del usuario
-
----
-
-## 8. PENDIENTES URGENTES (en orden)
-
-1. **kushita2016** — esperar respuesta, si no responde hoy escribir mañana 8/6 a las 8am con: *"buenos días! 😊 ¿cómo amaneció su mamá? — el guante sigue disponible ✅"*
-2. **+593 99 412 3065 (Santo Domingo)** — responder pregunta de pagos que fue ignorada: *"es un solo pago al retirar en Servientrega 😊 — no adelanta nada ✅ ¿cuál agencia le queda más cerca?"*
-3. **Jimmy Vera Peñafiel** — cuando Servientrega autorice: enviar guía + *"Jimmy su guante está en camino 📦 llega en 3-4 días a Servientrega Vergeles ✅"*
-4. **Testimonio** — escribir a Alex Lara (+593 97 926 9065) o Carmen Sosa (+593 99 965 2705): *"hola Alex! 😊 ¿cómo va con el guante? nos ayudaría mucho un comentario corto de su experiencia 🙌"*
-5. **Promo domingo** — enviar a todos los leads fríos con mensaje correcto (ver sección 4)
+1. **+593 98 656 8029 (Fertisa, Guayaquil)** — confirmar agencia Servientrega cerca de Fertisa y pedir datos. ACTIVO AHORA.
+2. **+593 96 133 9428** — esperar ciudad, cuando responda confirmar agencia + pedir datos
+3. **kushita2016 (+593 99 920 0994)** — esperar respuesta de hoy. Si no responde: mañana 8am *"buenos días! 😊 ¿cómo amaneció su mamá? — hoy el guante bajó a $49.99 solo por hoy, envío incluido ✅"*
+4. **+593 98 954 8974** — enviar: *"¿Es para usted o para un familiar? 😊"*
+5. **Jimmy Vera Peñafiel** — cuando Servientrega autorice enviar guía: *"Jimmy su guante está en camino 📦 llega en 3-4 días a Servientrega Vergeles ✅"*
+6. **Testimonio Alex Lara (+593 97 926 9065)** — al final del día: *"Hola Alex! 😊 ¿cómo va con el guante? nos ayudaría mucho un comentario corto de su experiencia 🙌"*
+7. **Subir precio mañana lunes a $59.99** — hoy es $49.99 "solo por hoy domingo". Si no sube mañana, la urgencia muere.
+8. **Corregir bot automático** — manda mensajes duplicados + cotiza precio desactualizado
+9. **Fusionar rama claude/magical-franklin-iCbBk a main** en ambos repos
 
 ---
 
 ## 9. ERRORES QUE NUNCA REPETIR
 
 1. Decir "somos de Guayaquil" — ProMarket es de **Loja**
-2. Emoji 😊 o 💛 después de situación difícil — usar **🙏**
-3. Mencionar 75% de descuento — **solo precio final**
-4. Guión largo como primer mensaje — **precio en la primera línea**
-5. Ignorar pregunta directa del cliente — **responderla siempre primero**
-6. "A la orden" sin técnica de cierre — **siempre contraatacar**
-7. Responder audio como si no existiera — **"¡escuché! 😊"**
-8. Urgencia falsa ("extendimos hasta mañana") — **solo urgencia real**
-9. Ficha técnica sin precio primero — **precio → luego ficha si pide**
-10. Preguntar ciudad cuando ya la dijo — **revisar el historial antes**
+2. 😊 o 💛 después de situación difícil — usar **🙏**
+3. Mencionar % de descuento — solo precio final
+4. Guión largo como primer mensaje
+5. Ignorar pregunta directa del cliente
+6. "A la orden" sin técnica de cierre
+7. Responder audio como si no existiera
+8. Urgencia falsa o extendible
+9. Ficha técnica sin precio primero
+10. Preguntar ciudad cuando ya la dijo
+11. Mandar respuesta duplicada — revisar el historial siempre
+12. Empezar mensaje con minúscula
+13. Dar $49.99 a lead nuevo — solo para re-enganche 24h+
+14. Registrar sin hacer commit — siempre push inmediato
+
+---
+
+## 10. APRENDIZAJES CLAVE DE HOY 7/JUN
+
+1. **Bot automático tiene errores críticos:** duplica mensajes + cotiza $59.99 cuando debería ser el precio de liquidación
+2. **"¿Es para usted o para un familiar?"** es la mejor pregunta de enganche — confirmado por Alejandro
+3. **Leads recientes (<24h):** solo una pregunta, no mensaje completo
+4. **Patrón "quiere ir a Servientrega a comprar":** explicar el modelo UNA VEZ, si no entiende cerrar
+5. **Patrón "producto equivocado":** cliente de pie/tobillo → el guante no aplica → cerrar honestamente con 🙏
+6. **Promo dominical ejecutada** — si mañana lunes el precio no sube a $59.99, la urgencia "solo por hoy" queda destruida
