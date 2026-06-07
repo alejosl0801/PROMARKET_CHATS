@@ -7,3 +7,4 @@
 | 3 | 2026-06-07 | [Conversación WhatsApp Fertisa — mensaje de confirmación de agencia enviado] |
 | 4 | 2026-06-07 | CUAL ES TU ORDEN PRINCIPAL |
 | 5 | 2026-06-07 | TIENES QUE REGISTRAR CADA NUEVA LETRA/ PALABRA QUE SE HABLE EN ESTE CHAT A PARTIR DE AHORITA, CADA QUE YO APLASTE ENTER |
+| 6 | 2026-06-07 10:37 | +593 98 828 7477: ¡Hola! Quiero realizar mi pedido del Guante de Rehabilitación |
