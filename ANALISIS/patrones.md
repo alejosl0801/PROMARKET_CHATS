@@ -1,5 +1,5 @@
 # PATRONES DE CIERRE — PROMARKET ECUADOR
-## Actualizado: 7 de junio 2026 — basado en 23+ chats y análisis profundo
+## Actualizado: 7 de junio 2026 (sesión 2) — basado en 32 conversaciones reales completas
 
 ---
 
@@ -123,24 +123,38 @@ La pregunta "¿de qué ciudad nos escribe?" llega antes de que el cliente esté 
 
 - ROAS: 7.3x
 - Ganancia neta estimada: $115.57
-- Pausar ollas fue decisión emocional — ollas era más eficiente en costo/conv
+- Pausar ollas fue decisión CORRECTA — CAC real ollas $18.99 (FB atribuyó 3 ventas, real fue 1)
+- CAC real guante: $8.49 → margen neto $20.83
 
 ### Meta de mejora
-- Tasa de cierre actual: 12.5%
-- Meta: 20%
-- Impacto: margen neto guante sube de $13.64 a $19.52 con mismo gasto
+- Tasa de cierre actual: 15.6% (5/32)
+- Meta: 25%
+- Impacto: +$307/mes neto sin gastar más en ads
+
+### Revenue perdido por errores (estimado mensual)
+| Error | Ventas perdidas/mes | Revenue perdido |
+|---|---|---|
+| Respuesta lenta | 5–7 | $300–$420 |
+| Guión largo sin precio | 4–6 | $200–$360 |
+| Ignorar pregunta directa | 2–3 | $120–$180 |
+| "A la orden" sin cierre | 2–3 | $120–$180 |
+| No responder audio | 1–2 | $60–$120 |
+| **TOTAL** | **14–21** | **$800–$1.260** |
 
 ---
 
-## MÉTRICAS (al 7/Jun/2026)
+## MÉTRICAS (al 7/Jun/2026 — sesión 2)
 
 | Métrica | Valor |
 |---|---|
-| Chats totales analizados | 23+ |
-| Ventas cerradas | 4 |
-| Tasa de cierre real (desde ads) | 12.5% |
-| Ticket promedio | $81.49 |
-| Total facturado | $325.94 |
-| Ganancia neta estimada | $115.57 |
-| ROAS | 7.3x |
+| Conversaciones totales revisadas | 32 |
+| Ventas cerradas | 5 |
+| Tasa de cierre real | 15.6% |
+| Ticket promedio | $75.19 |
+| Total facturado | $375.93 |
+| Margen bruto total | $164.32 |
+| Gasto ads | $44.47 |
+| Margen neto estimado | ~$120 |
+| ROAS | ~8.5x |
 | Testimonios recolectados | 0 ⚠️ |
+| Leads recuperables activos | 6 |
