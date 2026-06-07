@@ -28,8 +28,10 @@
 | 24 | 2026-06-07 10:57 | +593 96 133 9428: quiere retirar viernes |
 | 25 | 2026-06-07 11:04 | +593 98 153 3067: Chone — guante para mamá |
 | 26 | 2026-06-07 11:05 | +593 96 133 9428: Ok gracias — orden generada |
-| 27 | 2026-06-07 11:08 | Promarket → +593 98 153 3067: pidiendo dirección y agencia |
-| 28 | 2026-06-07 11:11 | +593 98 153 3067: ¿viene cargador? ¿funciona bien? ¿hace los movimientos del video? |
+| 27 | 2026-06-07 11:08 | Promarket → +593 98 153 3067: resolviendo dudas + pidiendo datos |
+| 28 | 2026-06-07 11:11 | +593 98 153 3067: dudas cargador/funciona/movimientos |
+| 29 | 2026-06-07 11:15 | Promarket → todos pendientes GUANTE y OLLAS: promo enviada ✅ |
+| 30 | 2026-06-07 11:16 | ivanojeda +593 98 946 0509: "Ya no muchas gracias disculpe" — CERRADO |
 
 ---
 
@@ -39,29 +41,29 @@
 | Cliente | Número | Estado |
 |---------|--------|--------|
 | César López (+593 96 133 9428) | — | ✅ ORDEN GENERADA — retira viernes |
-| +593 98 153 3067 | Chone | 🔥 Resolviendo dudas → pedir datos |
-| Norma Chavarría | +593 98 480 0900 | ⏳ Por enviar promo |
-| Mangu | +593 99 557 7529 | ⏳ Por enviar promo |
-| Bettys | +593 98 501 1737 | ⏳ Por enviar promo |
-| "tu papa" | +593 93 976 3359 | ⏳ Por enviar promo |
-| ivanojeda | +593 98 946 0509 | ⏳ Por enviar promo |
-| — | +593 93 996 4634 | ⏳ Por enviar promo |
-| — | +593 97 987 1730 | ⏳ Por enviar promo |
-| — | +593 98 591 2050 | ⏳ Por enviar promo |
-| — | +593 99 727 8035 | ⏳ Por enviar promo |
-| — | +593 96 100 7773 (El Oro) | ⏳ Por enviar promo |
-| — | +593 99 412 3065 (Sto. Domingo) | ⏳ Por enviar promo |
+| +593 98 153 3067 | Chone | 🔥 Resolviendo dudas → esperando datos |
+| Norma Chavarría | +593 98 480 0900 | ⏳ Promo enviada — esperando respuesta |
+| Mangu | +593 99 557 7529 | ⏳ Promo enviada — esperando respuesta |
+| Bettys | +593 98 501 1737 | ⏳ Promo enviada — esperando respuesta |
+| "tu papa" | +593 93 976 3359 | ⏳ Promo enviada — esperando respuesta |
+| ivanojeda | +593 98 946 0509 | ❌ CERRADO — dijo NO |
+| — | +593 93 996 4634 | ⏳ Promo enviada — esperando respuesta |
+| — | +593 97 987 1730 | ⏳ Promo enviada — esperando respuesta |
+| — | +593 98 591 2050 | ⏳ Promo enviada — esperando respuesta |
+| — | +593 99 727 8035 | ⏳ Promo enviada — esperando respuesta |
+| — | +593 96 100 7773 (El Oro) | ⏳ Promo enviada — esperando respuesta |
+| — | +593 99 412 3065 (Sto. Domingo) | ⏳ Promo enviada — esperando respuesta |
 
 ### OLLAS
 | Cliente | Número | Estado |
 |---------|--------|--------|
-| Wuinston | +593 98 109 9770 | ⏳ Por enviar promo |
-| Dr. BARROS | +593 98 110 2387 | ⏳ Por enviar promo |
-| Gustavo | +593 99 615 7785 | ⏳ Por enviar promo |
-| Sery | +593 97 874 3450 | ⏳ Por enviar promo |
-| Rosa Torres | +593 98 651 6901 | ⏳ Por enviar promo |
-| Carlota | +593 99 027 6468 | ⏳ Por enviar promo |
-| Alvita | +593 93 957 7932 | ⏳ Por enviar promo |
-| Maggi | +593 96 700 4465 | ⏳ Por enviar promo |
-| Ita Vera | +593 96 705 3789 | ⏳ Por enviar promo |
-| Cecilia | +593 98 737 1421 | ⏳ Por enviar promo |
+| Wuinston | +593 98 109 9770 | ⏳ Promo enviada — esperando respuesta |
+| Dr. BARROS | +593 98 110 2387 | ⏳ Promo enviada — esperando respuesta |
+| Gustavo | +593 99 615 7785 | ⏳ Promo enviada — esperando respuesta |
+| Sery | +593 97 874 3450 | ⏳ Promo enviada — esperando respuesta |
+| Rosa Torres | +593 98 651 6901 | ⏳ Promo enviada — esperando respuesta |
+| Carlota | +593 99 027 6468 | ⏳ Promo enviada — esperando respuesta |
+| Alvita | +593 93 957 7932 | ⏳ Promo enviada — esperando respuesta |
+| Maggi | +593 96 700 4465 | ⏳ Promo enviada — esperando respuesta |
+| Ita Vera | +593 96 705 3789 | ⏳ Promo enviada — esperando respuesta |
+| Cecilia | +593 98 737 1421 | ⏳ Promo enviada — esperando respuesta |
