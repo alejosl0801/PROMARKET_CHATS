@@ -20,37 +20,40 @@
 | 16 | 2026-06-07 | ARRANCA actualizado con historial por lead |
 | 17 | 2026-06-07 | no imbecil, tu eres el arranca, lee |
 | 18 | 2026-06-07 | [leí CEREBRO completo — contexto cargado] |
-| 19 | 2026-06-07 | Todos los clientes GUANTE + OLLAS están pendientes de recibir promo hoy 7/6 |
+| 19 | 2026-06-07 | Todos los clientes GUANTE + OLLAS pendientes de promo 7/6 |
+| 20 | 2026-06-07 10:45 | Promarket → +593 96 133 9428: pidiendo ciudad |
+| 21 | 2026-06-07 10:47 | +593 96 133 9428: Quito Conocoto — Servientrega Av Lola Quintana |
 
 ---
 
 ## Clientes Pendientes — Promo 7/6
 
-### GUANTE — PENDIENTES
+### GUANTE
 | Cliente | Número | Estado |
 |---------|--------|--------|
-| Norma Chavarría | +593 98 480 0900 | ⏳ Por enviar |
-| Mangu | +593 99 557 7529 | ⏳ Por enviar |
-| Bettys | +593 98 501 1737 | ⏳ Por enviar |
-| "tu papa" | +593 93 976 3359 | ⏳ Por enviar |
-| ivanojeda | +593 98 946 0509 | ⏳ Por enviar |
-| — | +593 93 996 4634 | ⏳ Por enviar |
-| — | +593 97 987 1730 | ⏳ Por enviar |
-| — | +593 98 591 2050 | ⏳ Por enviar |
-| — | +593 99 727 8035 | ⏳ Por enviar |
-| — | +593 96 100 7773 (El Oro) | ⏳ Por enviar |
-| — | +593 99 412 3065 (Sto. Domingo) | ⏳ Por enviar |
+| +593 96 133 9428 | — | 🔥 Ciudad: Quito Conocoto — agencia: Av Lola Quintana → pedir datos |
+| Norma Chavarría | +593 98 480 0900 | ⏳ Por enviar promo |
+| Mangu | +593 99 557 7529 | ⏳ Por enviar promo |
+| Bettys | +593 98 501 1737 | ⏳ Por enviar promo |
+| "tu papa" | +593 93 976 3359 | ⏳ Por enviar promo |
+| ivanojeda | +593 98 946 0509 | ⏳ Por enviar promo |
+| — | +593 93 996 4634 | ⏳ Por enviar promo |
+| — | +593 97 987 1730 | ⏳ Por enviar promo |
+| — | +593 98 591 2050 | ⏳ Por enviar promo |
+| — | +593 99 727 8035 | ⏳ Por enviar promo |
+| — | +593 96 100 7773 (El Oro) | ⏳ Por enviar promo |
+| — | +593 99 412 3065 (Sto. Domingo) | ⏳ Por enviar promo |
 
-### OLLAS — PENDIENTES
+### OLLAS
 | Cliente | Número | Estado |
 |---------|--------|--------|
-| Wuinston | +593 98 109 9770 | ⏳ Por enviar |
-| Dr. BARROS | +593 98 110 2387 | ⏳ Por enviar |
-| Gustavo | +593 99 615 7785 | ⏳ Por enviar |
-| Sery | +593 97 874 3450 | ⏳ Por enviar |
-| Rosa Torres | +593 98 651 6901 | ⏳ Por enviar |
-| Carlota | +593 99 027 6468 | ⏳ Por enviar |
-| Alvita | +593 93 957 7932 | ⏳ Por enviar |
-| Maggi | +593 96 700 4465 | ⏳ Por enviar |
-| Ita Vera | +593 96 705 3789 | ⏳ Por enviar |
-| Cecilia | +593 98 737 1421 | ⏳ Por enviar |
+| Wuinston | +593 98 109 9770 | ⏳ Por enviar promo |
+| Dr. BARROS | +593 98 110 2387 | ⏳ Por enviar promo |
+| Gustavo | +593 99 615 7785 | ⏳ Por enviar promo |
+| Sery | +593 97 874 3450 | ⏳ Por enviar promo |
+| Rosa Torres | +593 98 651 6901 | ⏳ Por enviar promo |
+| Carlota | +593 99 027 6468 | ⏳ Por enviar promo |
+| Alvita | +593 93 957 7932 | ⏳ Por enviar promo |
+| Maggi | +593 96 700 4465 | ⏳ Por enviar promo |
+| Ita Vera | +593 96 705 3789 | ⏳ Por enviar promo |
+| Cecilia | +593 98 737 1421 | ⏳ Por enviar promo |
