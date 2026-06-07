@@ -201,7 +201,74 @@ ANALISIS/patrones.md → patrones y errores
 
 ---
 
-## 10. APRENDIZAJES CLAVE DE HOY 7/JUN
+## 11. MENSAJES LISTOS — LEADS PENDIENTES CON HISTORIAL
+
+> Si alguno responde la promo de hoy domingo, pegar la respuesta y dar el siguiente paso.
+> Si no responden hoy, esperar hasta mañana lunes 8am antes de volver a escribir.
+
+---
+
+### GUANTE — leads que recibieron promo hoy "bajó a $49.99 solo por hoy domingo"
+
+**Norma Chavarría — +593 98 480 0900**
+- Historial: llegó a pedir agencia, mandó 2 audios, ghosteó. Agencia confirmada en su sector.
+- Si responde: *"Norma! 😊 Perfecto — me ayuda con sus datos para generarle la orden: 📌 Nombre completo 📌 Celular 📌 Dirección de referencia"*
+
+**Mangu — +593 99 557 7529**
+- Historial: preguntó por el PAR izq+der. Le dieron precio mal ($113.98). Dijo "ok gracias" y se fue.
+- Si responde: *"Hola! 😊 El par sale a $99.98 con envío incluido — ¿de qué ciudad nos escribe?"*
+
+**Bettys — +593 98 501 1737**
+- Historial: preguntó "¿de qué lugar son?" y nadie respondió → ghosteó.
+- Si responde: *"Somos de Loja, llegamos a todo Ecuador con Servientrega 🇪🇴 — paga al retirar, no adelanta nada ✅ ¿de qué ciudad nos escribe?"*
+
+**"tu papa" — +593 93 976 3359**
+- Historial: 2 contactos, solo respondió "Precio" una vez, nunca dio ciudad.
+- Si responde: *"$49.99 con envío incluido 😊 ¿de qué ciudad nos escribe?"*
+
+**ivanojeda — +593 98 946 0509**
+- Historial: 3 contactos, NUNCA respondió nada. Casi sin esperanza.
+- Si responde: *"Hola! 😊 $49.99 con envío incluido — ¿de qué ciudad nos escribe?"*
+- Si no responde hoy: cierre de conversación — no volver a escribir
+
+**+593 93 996 4634**
+- Historial: solo preguntó precio 6/6, no respondió ciudad.
+- Si responde: *"¿De qué ciudad nos escribe? 😊"*
+
+**+593 97 987 1730**
+- Historial: preguntó precio + garantía 6/6. Señal de compra.
+- Si responde: *"¿De qué ciudad nos escribe? 😊"*
+
+**+593 98 591 2050**
+- Historial: dijo "quiero realizar mi pedido" 6/6, no respondió ciudad.
+- Si responde: *"¿De qué ciudad nos escribe? 😊"*
+
+**+593 99 727 8035**
+- Historial: dijo "quiero realizar mi pedido" 6/6, no respondió ciudad.
+- Si responde: *"¿De qué ciudad nos escribe? 😊"*
+
+**+593 96 100 7773 (El Oro)**
+- Historial: intermediario que va a consultar con la persona. Ciudad: El Oro.
+- Si responde: *"Perfecto! 😊 En El Oro tenemos agencias disponibles — ¿en qué sector está?"*
+
+**+593 99 412 3065 (Santo Domingo)**
+- Historial: preguntó "¿en cuántos pagos?" — se respondió hoy. Esperando.
+- Si responde: confirmar agencia Santo Domingo → pedir datos
+
+---
+
+### OLLAS — leads que recibieron promo "bajó a $39.99 solo por hoy domingo"
+
+**Wuinston — +593 98 109 9770** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
+**Dr. BARROS — +593 98 110 2387** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
+**Gustavo — +593 99 615 7785** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
+**Sery — +593 97 874 3450** / Historial: le gustó el precio, dijo "me animo y le aviso", Jipijapa hay Servientrega / Si responde: *"Sery! 😊 ¿Le genero la orden? Me ayuda con: 📌 Nombre 📌 Celular 📌 Dirección"*
+**Rosa Torres — +593 98 651 6901** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
+**Carlota — +593 99 027 6468** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
+**Alvita — +593 93 957 7932** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
+**Maggi — +593 96 700 4465** / Historial: mandó audio ignorado / Si responde: *"¡Escuché! 😊 ¿De qué ciudad nos escribe?"*
+**Ita Vera — +593 96 705 3789** / Historial: preguntó "¿se paga al recibir?" ignorado / Si responde: *"Sí, paga al retirar en Servientrega 😊 — no adelanta nada ✅ ¿De qué ciudad nos escribe?"*
+**Cecilia — +593 98 737 1421** / Si responde: *"¿De qué ciudad nos escribe? 😊"*
 
 1. **Bot automático tiene errores críticos:** duplica mensajes + cotiza $59.99 cuando debería ser el precio de liquidación
 2. **"¿Es para usted o para un familiar?"** es la mejor pregunta de enganche — confirmado por Alejandro
