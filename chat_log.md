@@ -31,7 +31,16 @@
 | 27 | 2026-06-07 11:08 | Promarket → +593 98 153 3067: resolviendo dudas + pidiendo datos |
 | 28 | 2026-06-07 11:11 | +593 98 153 3067: dudas cargador/funciona/movimientos |
 | 29 | 2026-06-07 11:15 | Promarket → todos pendientes GUANTE y OLLAS: promo enviada ✅ |
-| 30 | 2026-06-07 11:16 | ivanojeda +593 98 946 0509: "Ya no muchas gracias disculpe" — CERRADO |
+| 30 | 2026-06-07 11:16 | ivanojeda +593 98 946 0509: "Ya no muchas gracias" — CERRADO ❌ |
+| 31 | 2026-06-07 | CADA ORACIÓN SE EMPIEZA CON MAYÚSCULA — regla confirmada |
+| 32 | 2026-06-07 11:34 | +593 96 746 2507: guante para un familiar — respondió promo |
+| 33 | 2026-06-07 | ESE TONO ME GUSTÓ — tono cálido/emocional aprobado |
+
+---
+
+## REGLAS DE TONO
+- Cada oración empieza con mayúscula
+- Tono cálido y emocional aprobado por Alejandro ✅
 
 ---
 
@@ -42,6 +51,7 @@
 |---------|--------|--------|
 | César López (+593 96 133 9428) | — | ✅ ORDEN GENERADA — retira viernes |
 | +593 98 153 3067 | Chone | 🔥 Resolviendo dudas → esperando datos |
+| +593 96 746 2507 | — | 🔥 Guante para familiar — esperando ciudad |
 | Norma Chavarría | +593 98 480 0900 | ⏳ Promo enviada — esperando respuesta |
 | Mangu | +593 99 557 7529 | ⏳ Promo enviada — esperando respuesta |
 | Bettys | +593 98 501 1737 | ⏳ Promo enviada — esperando respuesta |
