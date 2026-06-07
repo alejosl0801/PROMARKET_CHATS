@@ -35,45 +35,56 @@
 | 31 | 2026-06-07 | CADA ORACIÓN SE EMPIEZA CON MAYÚSCULA — regla confirmada |
 | 32 | 2026-06-07 11:34 | +593 96 746 2507: guante para un familiar — respondió promo |
 | 33 | 2026-06-07 | ESE TONO ME GUSTÓ — tono cálido/emocional aprobado |
+| 34 | 2026-06-07 | +593 96 746 2507: ciudad Ambato, agencia Huachi Chico — pidiendo datos |
+| 35 | 2026-06-07 14:01 | +593 99 324 9130: quiere pedir guante, preguntó precio |
+| 36 | 2026-06-07 14:02 | Promarket → +593 99 324 9130: precio $59.99 + ¿para quién? |
 
 ---
 
 ## REGLAS DE TONO
 - Cada oración empieza con mayúscula
-- Tono cálido y emocional aprobado por Alejandro ✅
+- Tono cálido y emocional aprobado ✅
 
 ---
 
-## Clientes Pendientes — Promo 7/6
-
-### GUANTE
+## Clientes Activos
 | Cliente | Número | Estado |
 |---------|--------|--------|
-| César López (+593 96 133 9428) | — | ✅ ORDEN GENERADA — retira viernes |
-| +593 98 153 3067 | Chone | 🔥 Resolviendo dudas → esperando datos |
-| +593 96 746 2507 | — | 🔥 Guante para familiar — esperando ciudad |
-| Norma Chavarría | +593 98 480 0900 | ⏳ Promo enviada — esperando respuesta |
-| Mangu | +593 99 557 7529 | ⏳ Promo enviada — esperando respuesta |
-| Bettys | +593 98 501 1737 | ⏳ Promo enviada — esperando respuesta |
-| "tu papa" | +593 93 976 3359 | ⏳ Promo enviada — esperando respuesta |
-| ivanojeda | +593 98 946 0509 | ❌ CERRADO — dijo NO |
-| — | +593 93 996 4634 | ⏳ Promo enviada — esperando respuesta |
-| — | +593 97 987 1730 | ⏳ Promo enviada — esperando respuesta |
-| — | +593 98 591 2050 | ⏳ Promo enviada — esperando respuesta |
-| — | +593 99 727 8035 | ⏳ Promo enviada — esperando respuesta |
-| — | +593 96 100 7773 (El Oro) | ⏳ Promo enviada — esperando respuesta |
-| — | +593 99 412 3065 (Sto. Domingo) | ⏳ Promo enviada — esperando respuesta |
+| César López | +593 96 133 9428 | ✅ ORDEN GENERADA — retira viernes |
+| — | +593 98 153 3067 | 🔥 Chone — esperando datos |
+| — | +593 96 746 2507 | 🔥 Ambato Huachi Chico — esperando datos |
+| — | +593 99 324 9130 | 🔥 NUEVO — esperando respuesta ¿para quién? |
+
+## Clientes Pendientes — Promo enviada
+### GUANTE
+| Cliente | Número |
+|---------|--------|
+| Norma Chavarría | +593 98 480 0900 |
+| Mangu | +593 99 557 7529 |
+| Bettys | +593 98 501 1737 |
+| "tu papa" | +593 93 976 3359 |
+| — | +593 93 996 4634 |
+| — | +593 97 987 1730 |
+| — | +593 98 591 2050 |
+| — | +593 99 727 8035 |
+| — | +593 96 100 7773 (El Oro) |
+| — | +593 99 412 3065 (Sto. Domingo) |
 
 ### OLLAS
-| Cliente | Número | Estado |
+| Cliente | Número |
+|---------|--------|
+| Wuinston | +593 98 109 9770 |
+| Dr. BARROS | +593 98 110 2387 |
+| Gustavo | +593 99 615 7785 |
+| Sery | +593 97 874 3450 |
+| Rosa Torres | +593 98 651 6901 |
+| Carlota | +593 99 027 6468 |
+| Alvita | +593 93 957 7932 |
+| Maggi | +593 96 700 4465 |
+| Ita Vera | +593 96 705 3789 |
+| Cecilia | +593 98 737 1421 |
+
+## Cerrados
+| Cliente | Número | Motivo |
 |---------|--------|--------|
-| Wuinston | +593 98 109 9770 | ⏳ Promo enviada — esperando respuesta |
-| Dr. BARROS | +593 98 110 2387 | ⏳ Promo enviada — esperando respuesta |
-| Gustavo | +593 99 615 7785 | ⏳ Promo enviada — esperando respuesta |
-| Sery | +593 97 874 3450 | ⏳ Promo enviada — esperando respuesta |
-| Rosa Torres | +593 98 651 6901 | ⏳ Promo enviada — esperando respuesta |
-| Carlota | +593 99 027 6468 | ⏳ Promo enviada — esperando respuesta |
-| Alvita | +593 93 957 7932 | ⏳ Promo enviada — esperando respuesta |
-| Maggi | +593 96 700 4465 | ⏳ Promo enviada — esperando respuesta |
-| Ita Vera | +593 96 705 3789 | ⏳ Promo enviada — esperando respuesta |
-| Cecilia | +593 98 737 1421 | ⏳ Promo enviada — esperando respuesta |
+| ivanojeda | +593 98 946 0509 | ❌ Dijo NO |
