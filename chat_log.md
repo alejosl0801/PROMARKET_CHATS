@@ -41,12 +41,32 @@
 | 37 | 2026-06-08 01:30 | Nueva sesión — contexto resumido — CEREBRO cargado |
 | 38 | 2026-06-08 01:31 | ✅ 02_camila.md actualizado: regla errónea eliminada, mayúsculas, talla/mano obligatorio, flujo fijo |
 | 39 | 2026-06-08 01:32 | ✅ 08_clientes.md reconstruido: estado completo al 7/6, plan lunes 8/6, blacklist, César como venta cerrada |
+| 40 | 2026-06-08 | Subió JSON backup de Rocket + campañas CSV — pidió análisis de 100 mejoras rentabilidad |
+| 41 | 2026-06-08 | Entregadas 100 mejoras organizadas por categoría |
+| 42 | 2026-06-08 | QUE DUDAS TIENES — varias aclaradas: $53.99 = descuento par 10% intencional, Jimmy sin dir = retiro agencia, Blanca resuelta |
+| 43 | 2026-06-08 | #9 Blanca resuelta — deja de mencionarla — ✅ 08_clientes actualizado |
+| 44 | 2026-06-08 | CSV campañas subido: ollas inactive $19/$5.66día / guante inactive $37.67/$5.33día / guante copia active $1.94/$5.33día |
+| 45 | 2026-06-08 | Análisis CSV: pixel Meta mal configurado — ollas solo 1 venta real (Willman), guante múltiples no atribuidas |
+| 46 | 2026-06-08 | fulfillment incluido en envío ✅ / Servientrega liquidación no se sabe ⚠️ / Alex+Carmen+Willman notificados ✅ |
+| 47 | 2026-06-08 | ¿Por qué pausaste ollas si convierte 15.8%? — solo 1 venta real (Willman), CSV mostraba 3 falsas por pixel roto |
+| 48 | 2026-06-08 | Copia guante = intencional, original se pausa mañana, copia permanente |
+| 49 | 2026-06-08 | TU TIENES TODO PAPITO — patrones de los 31 no-compradores analizados desde CEREBRO |
+| 50 | 2026-06-08 | ✅ 05_objeciones actualizado: cargador, movimientos, bloque /dt proactivo |
+| 51 | 2026-06-08 | QUE DUDAS AUN TIENES — solo 2 (talla César/Jimmy, stock por talla) — usuario: IRRELEVANTE |
+| 52 | 2026-06-08 | ENTONCES QUE FALTA — lista de pendientes por categoría (yo vs tú) |
+| 53 | 2026-06-08 | [voz] Mayúsculas + expresiones naturales / timing lo maneja Alejandro / blacklist en 08 / urgencia domingo caducada / Hand Grip timing nuevos leads |
+| 54 | 2026-06-08 | ✅ 07_reglas: urgencia semana 8-13/6, Hand Grip new vs old leads |
+| 55 | 2026-06-08 | ✅ 03_guiones: Day 2 urgencia semanal, urgencia vencida, /dt agregado, timing sin hardcodear |
+| 56 | 2026-06-08 | ✅ 08_clientes: blacklist con énfasis NO COMPRARON + lo que dijeron exactamente, Jimmy como venta cerrada |
+| 57 | 2026-06-08 | lee de nuevo todo lo que dije — detectado: chat_log.md no actualizado con sesión completa |
 
 ---
 
 ## REGLAS DE TONO
 - Cada oración empieza con mayúscula
+- Expresiones naturales dentro del mensaje (jaja, ya mismo, claro que sí) quedan en minúscula
 - Tono cálido y emocional aprobado ✅
+- Timing de seguimiento lo maneja Alejandro — Claude solo da el mensaje cuando le indican
 
 ---
 
@@ -54,12 +74,13 @@
 | Cliente | Número | Estado |
 |---------|--------|--------|
 | César López | +593 96 133 9428 | ✅ ORDEN GENERADA — retira viernes 13/6 |
-| — | +593 98 153 3067 | 🔥 Chone — resolviendo dudas — esperando datos |
+| Jimmy Vera Peñafiel | +593 93 918 4423 | ✅ ORDEN GENERADA — pendiente guía |
+| — | +593 98 153 3067 | 🔥 Chone — dudas técnicas — esperando datos |
 | — | +593 96 746 2507 | 🔥 Ambato Huachi Chico — esperando datos |
 | — | +593 99 324 9130 | 🔥 Milagro — Av 17 de Septiembre — esperando datos |
 | — | +593 98 828 7477 | Nuevo lead — sin respuesta |
 | kushita2016 | +593 99 920 0994 | Pelileo — agencia confirmada — esperando datos |
-| — | +593 98 591 2050 | Dijo "le aviso mañana" 7/6 — seguimiento lunes |
+| — | +593 98 591 2050 | Dijo "le aviso mañana" 7/6 — seguimiento suave lunes |
 | — | +593 98 954 8974 | Mensaje enviado — sin respuesta |
 
 ## Plan Lunes 8/6 — Última Instancia
@@ -90,10 +111,10 @@
 | Ita Vera | +593 96 705 3789 |
 | Cecilia | +593 98 737 1421 |
 
-## Blacklist
-| Cliente | Número | Motivo |
-|---------|--------|--------|
-| Rosa Carranza | +593 96 805 5707 | ❌ Ollas — "NO GRACIAS" |
-| Rose | +593 99 743 7282 | ❌ Ollas — "POR AHORA NO GRACIAS" |
-| Gregorio Barzallo | +593 99 758 0200 | ❌ Ollas — "Ya no lo necesito" |
-| ivanojeda | +593 98 946 0509 | ❌ Guante — "Ya no muchas gracias" |
+## ❌ NO COMPRARON — LISTA NEGRA
+| Cliente | Número | Producto | Lo que dijeron |
+|---------|--------|---------|----------------|
+| Rosa Carranza | +593 96 805 5707 | Ollas | "NO GRACIAS" |
+| Rose | +593 99 743 7282 | Ollas | "POR AHORA NO GRACIAS" |
+| Gregorio Barzallo | +593 99 758 0200 | Ollas | "Ya no lo necesito" |
+| ivanojeda | +593 98 946 0509 | Guante | "Ya no muchas gracias" (7/6) |
