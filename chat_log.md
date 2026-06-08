@@ -45,20 +45,29 @@
 | 41 | 2026-06-08 | Entregadas 100 mejoras organizadas por categoría |
 | 42 | 2026-06-08 | QUE DUDAS TIENES — varias aclaradas: $53.99 = descuento par 10% intencional, Jimmy sin dir = retiro agencia, Blanca resuelta |
 | 43 | 2026-06-08 | #9 Blanca resuelta — deja de mencionarla — ✅ 08_clientes actualizado |
-| 44 | 2026-06-08 | CSV campañas subido: ollas inactive $19/$5.66día / guante inactive $37.67/$5.33día / guante copia active $1.94/$5.33día |
-| 45 | 2026-06-08 | Análisis CSV: pixel Meta mal configurado — ollas solo 1 venta real (Willman), guante múltiples no atribuidas |
-| 46 | 2026-06-08 | fulfillment incluido en envío ✅ / Servientrega liquidación no se sabe ⚠️ / Alex+Carmen+Willman notificados ✅ |
-| 47 | 2026-06-08 | ¿Por qué pausaste ollas si convierte 15.8%? — solo 1 venta real (Willman), CSV mostraba 3 falsas por pixel roto |
-| 48 | 2026-06-08 | Copia guante = intencional, original se pausa mañana, copia permanente |
-| 49 | 2026-06-08 | TU TIENES TODO PAPITO — patrones de los 31 no-compradores analizados desde CEREBRO |
-| 50 | 2026-06-08 | ✅ 05_objeciones actualizado: cargador, movimientos, bloque /dt proactivo |
-| 51 | 2026-06-08 | QUE DUDAS AUN TIENES — solo 2 (talla César/Jimmy, stock por talla) — usuario: IRRELEVANTE |
-| 52 | 2026-06-08 | ENTONCES QUE FALTA — lista de pendientes por categoría (yo vs tú) |
-| 53 | 2026-06-08 | [voz] Mayúsculas + expresiones naturales / timing lo maneja Alejandro / blacklist en 08 / urgencia domingo caducada / Hand Grip timing nuevos leads |
-| 54 | 2026-06-08 | ✅ 07_reglas: urgencia semana 8-13/6, Hand Grip new vs old leads |
-| 55 | 2026-06-08 | ✅ 03_guiones: Day 2 urgencia semanal, urgencia vencida, /dt agregado, timing sin hardcodear |
-| 56 | 2026-06-08 | ✅ 08_clientes: blacklist con énfasis NO COMPRARON + lo que dijeron exactamente, Jimmy como venta cerrada |
-| 57 | 2026-06-08 | lee de nuevo todo lo que dije — detectado: chat_log.md no actualizado con sesión completa |
+| 44 | 2026-06-08 | CSV campañas subido: ollas inactive / guante inactive / guante copia active |
+| 45 | 2026-06-08 | Análisis CSV: pixel Meta mal configurado — ollas solo 1 venta real (Willman) |
+| 46 | 2026-06-08 | fulfillment incluido en envío ✅ / Servientrega liquidación pendiente / Alex+Carmen+Willman notificados ✅ |
+| 47 | 2026-06-08 | Copia guante = intencional, original se pausa esta semana, copia permanente |
+| 48 | 2026-06-08 | ✅ 05_objeciones actualizado: cargador, movimientos, bloque /dt proactivo |
+| 49 | 2026-06-08 | ENTONCES QUE FALTA — lista pendientes por categoría |
+| 50 | 2026-06-08 | [voz] Mayúsculas / blacklist en 08 / urgencia domingo caducada / Hand Grip timing |
+| 51 | 2026-06-08 | ✅ 07_reglas: urgencia semana 8-13/6, Hand Grip new vs old leads |
+| 52 | 2026-06-08 | ✅ 03_guiones: urgencia semanal, /dt, timing sin hardcodear |
+| 53 | 2026-06-08 | ✅ 08_clientes: blacklist énfasis NO COMPRARON + citas exactas |
+| 54 | 2026-06-08 | lee de nuevo todo lo que dije — chat_log no estaba actualizado |
+| 55 | 2026-06-08 | ✅ 03_guiones.md: seguimiento reemplazado con 10 mensajes (5días×2/día) |
+| 56 | 2026-06-08 | ✅ 07_reglas.md: secuencia 7 días eliminada → 10 mensajes con horarios AM/PM |
+| 57 | 2026-06-08 | Rocket app — análisis de index.html: columna Días, PDF talla/lado, catálogo, nota |
+| 58 | 2026-06-08 | ✅ Rocket: PDF fix (lado N/A y talla Sin talla no aparecen), Kit Hand Grip auto-seed, checkbox precio especial |
+| 59 | 2026-06-08 | ✅ SW bumpeado a pm-v6 para forzar cache refresh |
+| 60 | 2026-06-08 20:33 | +593 99 270 7955: nuevo lead — mensaje estándar guante |
+| 61 | 2026-06-08 20:37 | Promarket → +593 99 270 7955: bienvenida enviada ($59.99 + ¿para quién?) |
+| 62 | 2026-06-08 | +593 99 270 7955: sin respuesta — D1AM enviado (¿le pareció bien el precio?) |
+| 63 | 2026-06-08 | Rocket app — usuario reporta que tab Seguim. no aparece en nav |
+| 64 | 2026-06-08 | Identificado: cambios en rama feature, GitHub Pages sirve desde main — desplegando a main |
+| 65 | 2026-06-08 | ✅ 01_empresa.md: Alejandro→Camila en Kit Hand Grip, SKU actualizado a KHG-001 |
+| 66 | 2026-06-08 | ✅ 08_clientes.md: nuevo lead +593 99 270 7955 agregado, leads activos reorganizados |
 
 ---
 
@@ -66,7 +75,7 @@
 - Cada oración empieza con mayúscula
 - Expresiones naturales dentro del mensaje (jaja, ya mismo, claro que sí) quedan en minúscula
 - Tono cálido y emocional aprobado ✅
-- Timing de seguimiento lo maneja Alejandro — Claude solo da el mensaje cuando le indican
+- Seguimiento: 10 mensajes / 5 días / 2 por día (AM y PM) — manejado desde tab Seguimiento en Rocket
 
 ---
 
@@ -75,41 +84,14 @@
 |---------|--------|--------|
 | César López | +593 96 133 9428 | ✅ ORDEN GENERADA — retira viernes 13/6 |
 | Jimmy Vera Peñafiel | +593 93 918 4423 | ✅ ORDEN GENERADA — pendiente guía |
+| — | +593 99 270 7955 | 🔔 Nuevo 7/6 — D1AM enviado — próximo D1PM |
 | — | +593 98 153 3067 | 🔥 Chone — dudas técnicas — esperando datos |
 | — | +593 96 746 2507 | 🔥 Ambato Huachi Chico — esperando datos |
 | — | +593 99 324 9130 | 🔥 Milagro — Av 17 de Septiembre — esperando datos |
 | — | +593 98 828 7477 | Nuevo lead — sin respuesta |
 | kushita2016 | +593 99 920 0994 | Pelileo — agencia confirmada — esperando datos |
-| — | +593 98 591 2050 | Dijo "le aviso mañana" 7/6 — seguimiento suave lunes |
+| — | +593 98 591 2050 | Dijo "le aviso mañana" 7/6 — seguimiento pendiente |
 | — | +593 98 954 8974 | Mensaje enviado — sin respuesta |
-
-## Plan Lunes 8/6 — Última Instancia
-### GUANTE — 9 leads ($49.99 + Kit Hand Grip gratis)
-| Cliente | Número |
-|---------|--------|
-| Norma Chavarría | +593 98 480 0900 |
-| Mangu | +593 99 557 7529 |
-| Bettys | +593 98 501 1737 |
-| "tu papa" | +593 93 976 3359 |
-| — | +593 93 996 4634 |
-| — | +593 97 987 1730 |
-| — | +593 99 727 8035 |
-| — | +593 96 100 7773 (El Oro) |
-| — | +593 99 412 3065 (Sto. Domingo) |
-
-### OLLAS — 10 leads ($39.99)
-| Cliente | Número |
-|---------|--------|
-| Wuinston | +593 98 109 9770 |
-| Dr. BARROS | +593 98 110 2387 |
-| Gustavo | +593 99 615 7785 |
-| Sery | +593 97 874 3450 |
-| Rosa Torres | +593 98 651 6901 |
-| Carlota | +593 99 027 6468 |
-| Alvita | +593 93 957 7932 |
-| Maggi | +593 96 700 4465 |
-| Ita Vera | +593 96 705 3789 |
-| Cecilia | +593 98 737 1421 |
 
 ## ❌ NO COMPRARON — LISTA NEGRA
 | Cliente | Número | Producto | Lo que dijeron |
